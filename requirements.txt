@@ -1,0 +1,15 @@
+astroid==3.2.2
+certifi==2024.6.2
+charset-normalizer==3.3.2
+colorama==0.4.6
+dill==0.3.8
+idna==3.7
+isort==5.13.2
+mccabe==0.7.0
+pillow==10.4.0
+platformdirs==4.2.2
+pylint==3.2.5
+PyPDF2==3.0.1
+requests==2.32.3
+tomlkit==0.12.5
+urllib3==2.2.2
